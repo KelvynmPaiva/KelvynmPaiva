@@ -2,10 +2,10 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="50%" align="right"> -->
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GIF animado" width="200px" align="right"/>
 
-- ♾️ Explorando novas tecnologias e infraestrutura e praticas DevOps.
-- 🎓 Estudando Redes de Computadores na Unicesumar
-- 💼 Trabalhando como Auxiliar de Marketing na Eurobike BMW Group.
-- 🌱 Aprendendo mais sobre DevOps e se desenvolvendo cada vez mais.
+- ♾️ Entusiasta de novas tecnologias, infraestrutura e práticas DevOps.
+- 🎓 Cursando Redes de Computadores na Unicesumar.
+- 💼 Atuando como Auxiliar de Marketing na Eurobike – BMW Group.
+- 🌱 Em constante evolução, aprofundando conhecimentos em DevOps e desenvolvimento profissional.
 
 ### 📱 Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kelvynpaiva)
