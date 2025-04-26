@@ -1,6 +1,6 @@
 # 🤖 Kelvyn Paiva!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="300" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="400px" width="50%" align="right">
 
 
 - ♾️ Explorando novas tecnologias e infraestrutura e praticas DevOps.
