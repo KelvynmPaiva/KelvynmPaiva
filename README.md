@@ -23,9 +23,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-[![card](https://github-readme-stats.vercel.app/api?username=kelvynmpaiva&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvynmpaiva&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF animado" width="100%"/>
-
-
